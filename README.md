@@ -2,7 +2,7 @@
 
 PsychoPy es un programa de código abierto para crear estímulos psicológicos en Python (una alternativa real y gratuita a MATLAB). PsychoPy combina las caracteristicas gráficas de OpenGL con la sencilla sintaxis de Python para dar a los psicofísicos un software de presentación y control de estímulos simple y gratuito.
 
-El objetivo es proporcionar al científico ocupado (incluyendome!), herramientas para controlar el tiempo y la ventana y un simple set de estímulos y métodos pre-empaquetados. El código es independiente de la plataforma, por lo que se pueden usar las bibliotecas de Python y C que están ampliamente disponibles.
+El objetivo es proporcionar al científico ocupado (incluyendome!), herramientas para controlar tiempos y rutinas con un simple set de estímulos y métodos pre-empaquetados. El código es independiente de la plataforma, por lo que se pueden usar las bibliotecas de Python y C que están ampliamente disponibles.
 
 ## Contribuciones
 
